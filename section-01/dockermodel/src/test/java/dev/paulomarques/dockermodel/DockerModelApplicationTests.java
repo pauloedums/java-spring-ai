@@ -1,0 +1,13 @@
+package dev.paulomarques.dockermodel;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class DockerModelApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
